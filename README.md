@@ -22,13 +22,13 @@ Jarvis is a smart and customizable desktop assistant built using **Python**, **E
 ## 🖼️ Demo
 
 ### 🔐 Face Authentication
-![Face Authentication](https://github.com/digambar2002/image-hosting/blob/main/How_to_make_Jarvis_in_Python__voice_assistant__jarvis_iron_m.gif)
+![Face Authentication](https://github.com/Saurabh2005695/image-hosting/blob/main/How_to_make_Jarvis_in_Python__voice_assistant__jarvis_iron_m.gif)
 
 ### 🎤 Speech to Text Recognition
-![Speech to Text](https://github.com/digambar2002/image-hosting/blob/main/e.gif)
+![Speech to Text](https://github.com/Saurabh2005695/image-hosting/blob/main/e.gif)
 
 ### 🎵 Play Music on Spotify
-![Play Music in Spotify](https://github.com/digambar2002/image-hosting/blob/main/2.gif)
+![Play Music in Spotify](https://github.com/Saurabh2005695/image-hosting/blob/main/2.gif)
 
 ---
 
@@ -46,3 +46,4 @@ Jarvis is a smart and customizable desktop assistant built using **Python**, **E
 ```bash
 git clone https://github.com/yourusername/jarvis-python-assistant.git
 cd jarvis-python-assistant
+
